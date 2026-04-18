@@ -40,9 +40,6 @@ View bias detection, fairness score, and alerts
 Apply Fix Bias
 Compare results
 Download report
-▶️ Run Locally
-# Clone the repository
-git clone https://github.com/your-username/ai-fairness-auditor.git
 
 # Navigate to project folder
 cd ai-fairness-auditor
